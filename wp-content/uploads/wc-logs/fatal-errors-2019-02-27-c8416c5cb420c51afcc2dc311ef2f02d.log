@@ -1,0 +1,8 @@
+2019-02-27T13:04:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\eFurniture\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-02-27T13:15:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\eFurniture\wp-includes\wp-db.php on line 1924
+
+2019-02-27T13:16:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\eFurniture\wp-includes\wp-db.php on line 1924
+
+2019-02-27T13:17:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\eFurniture\wp-includes\Requests\Transport\cURL.php on line 441
+
